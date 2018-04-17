@@ -18,7 +18,7 @@ function johnLennonFacts(facts) {
  return yellingFacts;
 }
 
-// I Love the Beatles
+// I Love the Beatles [ do-while loop ]
 function iLoveTheBeatles(n) {
   var array = [];
   do {
